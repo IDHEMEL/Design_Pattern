@@ -4,7 +4,7 @@
 
 # Structure de projet
 
-![image](https://user-images.githubusercontent.com/80545408/198738588-80a373f5-b55f-4632-b839-ef32f72eba1f.png)
+![image](https://user-images.githubusercontent.com/80545408/198739040-91514da6-e12d-44f2-9ba3-216ef9da65b8.png)
 
 # Teste
 
